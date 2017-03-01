@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: JAVA_Javi-Grimaret
 Build-Jdk: 1.8.0_121
+=======
+Built-By: JAVA_Yurena
+Build-Jdk: 1.8.0_111
+>>>>>>> 9b0327c46ad23d07f3620acc01773f9a20d2622d
 Created-By: Maven Integration for Eclipse
 
